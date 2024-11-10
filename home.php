@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NavBar Component</title>
+    <title>Dishub</title>
     <script src="https://kit.fontawesome.com/5bafccf36f.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="home.css">
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
@@ -170,8 +170,8 @@ session_start();
                 </form>
                 <div class="contact-details">
                     <h3 class="contact-details-h3">Contact Details</h3>
-                    <p class="contact-details-p">Email: <a href="mailto:sreerajmutha@gmail.com">sreerajmutha@gmail.com</a></p>
-                    <p class="contact-details-p">Mobile: <a href="tel:9391410078">9391410078</a></p>
+                    <p class="contact-details-p">Email: <a href="mailto:dishub411@gmail.com">dishub411@gmail.com</a></p>
+                    <p class="contact-details-p">Mobile: <a href="tel:9866474481">9866474481</a></p>
                 </div>
             </div>
             <div class="map-container1">
@@ -208,8 +208,8 @@ session_start();
                     
                     <div class="footer-section contact">
                     <h2>Contact Us</h2>
-                    <p>Email: sreerajmutha@gmail.com</p>
-                    <p>Phone: +919391410078</p>
+                    <p>Email: dishub411@gmail.com</p>
+                    <p>Phone: +919866474481</p>
                     <div class="socials">
                         <a href="#"><i class="fab fa-facebook"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
